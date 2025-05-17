@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: This site is under construction.
 ---
 
+**Wear your helmets!**
